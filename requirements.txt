@@ -1,0 +1,7 @@
+opencv-contrib-python==4.5.2.54
+scipy==1.5.4
+PyQt5==5.15.4
+numpy==1.19.3
+pyyaml==5.4.1
+streamlit==1.1.0
+streamlit-webrtc==0.31.1
