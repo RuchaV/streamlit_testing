@@ -16,5 +16,3 @@ scipy==1.5.4
 PyQt5==5.15.4
 pyyaml==5.4.1
 xlsxwriter==3.0.1
-opencv-contrib-python==4.5.4.58
-opencv-python==4.5.4.58
