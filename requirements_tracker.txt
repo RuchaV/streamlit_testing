@@ -1,0 +1,15 @@
+backports.entry-points-selectable==1.1.0
+certifi==2021.5.30
+distlib==0.3.2
+filelock==3.0.12
+importlib-metadata==4.8.1
+importlib-resources==5.2.2
+imutils==0.5.4
+numpy==1.19.5
+opencv-contrib-python==4.5.4.58
+opencv-python==4.5.4.58
+pipenv==2021.5.29
+platformdirs==2.3.0
+six==1.16.0
+virtualenv-clone==0.5.7
+wincertstore==0.2
